@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
 
-- ✍ I graduated from Vinh University: [Vinh University](https://vinhuni.edu.vn/).
+- ✍ I graduated **English Teacher** at Vinh University: [Vinh University](https://vinhuni.edu.vn/).
 - 🌱 I’m currently learning **Information Technology** at [Thai Nguyen University](http://www.tnu.edu.vn/).
 
 ### 🛠 My knowledge
