@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
 
-- ✍ I'm a student of: [Vinh University](https://vinhuni.edu.vn/) (HCMUTE).
+- ✍ I'm a student of: [Vinh University](https://vinhuni.edu.vn/).
 - 🌱 I’m currently learning **MERN Stack.**
 
 ### 🛠 My knowledge
