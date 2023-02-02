@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
 
+- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- 🌱 I’m currently learning **MERN Stack.**
+
 ### 🛠 My knowledge
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
