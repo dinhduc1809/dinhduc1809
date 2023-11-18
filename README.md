@@ -33,9 +33,6 @@
 </p>
 
 ### 🌐️ Reach me at
-<a href="https://www.instagram.com/ha2cm/" rel="nofollow">
-  <img align="left" alt="Ha's Instagram" width="24px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
-</a>
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
