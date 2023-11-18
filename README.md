@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
