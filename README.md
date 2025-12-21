@@ -1,10 +1,4 @@
-<div align="center" style="margin:0; padding:0;">
-  <img 
-    src="https://i.postimg.cc/bvFr3VTv/2be622d8-0aa6-4a29-b66d-8ad0b452f7fe-Photoroom.png"
-    alt="Banner"
-    style="display:block; margin:0 auto;"
-  />
-</div>
+<img alt="banner" style="width:100vw" src="https://i.postimg.cc/bvFr3VTv/2be622d8-0aa6-4a29-b66d-8ad0b452f7fe-Photoroom.png">
 
 <h1 align="center">Hi 👋, I'm Cao Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
