@@ -1,4 +1,10 @@
-![Banner](https://i.postimg.cc/bvFr3VTv/2be622d8-0aa6-4a29-b66d-8ad0b452f7fe-Photoroom.png)
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/bvFr3VTv/2be622d8-0aa6-4a29-b66d-8ad0b452f7fe-Photoroom.png"
+    alt="Banner"
+    style="max-width: 100%; height: auto;"
+  />
+</p>
 
 <h1 align="center">Hi 👋, I'm Cao Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
