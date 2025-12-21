@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="https://postimg.cc/cKwdJmPq">
+<img alt="banner" src="https://postimg.cc/cKwdJmPq">
 
 <h1 align="center">Hi 👋, I'm Cao Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
