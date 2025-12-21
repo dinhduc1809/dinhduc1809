@@ -1,4 +1,4 @@
-<img alt="banner" src="https://i.postimg.cc/bvFr3VTv/2be622d8-0aa6-4a29-b66d-8ad0b452f7fe-Photoroom.png" style="display:block;width:100%;margin:0;">
+<img src="https://i.postimg.cc/QMMkFPCb/banner.png" alt="banner" style="display:block;width:100%;margin:0;">
 
 <h1 align="center">Hi 👋, I'm Cao Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
