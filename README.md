@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/QMMkFPCb/banner.png" alt="banner" style="display:block;width:100%;margin:0;">
+<img src="https://i.postimg.cc/QMMkFPCb/banner.png?v=1" alt="banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Cao Dinh Duc</h1>
 <h3 align="center">I am a Web Developer</h3>
